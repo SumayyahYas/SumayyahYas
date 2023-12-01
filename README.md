@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SumayyahYas 
 - 👀 I’m interested in making webpages.
-- 🌱 I’m currently learning HTML, CSS, and...JavaScript!
-- 💞️ I’m looking to collaborate on ...nothing no thank you...
-- 📫 How to reach me...don't. 
+- 🌱 I’m currently learning HTML, CSS, and JS.
+- 💞️ I’m looking to collaborate on...
+- 📫 How to reach me...
 
 <!---
 SumayyahYas/SumayyahYas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
