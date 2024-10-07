@@ -6,9 +6,8 @@
     <body>
         <ul>
             <li>Salaam, I'm @SumayyahYas. 👋</li>
-            <li>I like coding, obviously. 👩‍💻</li>
-            <li>I'm currently learning HTML, CSS, JavaScript, Python, C, and C#! 🐍</li>
-            <li>And maybe SQL later on...</li>
+            <li>I like programming and cryptography. 👩‍💻</li>
+            <li>I'm currently learning JavaScript, Python, and C. </li>
         </ul>
     </body>
 </html>
